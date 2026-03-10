@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+<<<<<<< HEAD
+rootProject.name = "AppCong"
+=======
+rootProject.name = "BaiTH3_LinearLayout01"
+>>>>>>> 2ab245b843468e24e7f2b755d161fbfe022ea738
+include ':app'
