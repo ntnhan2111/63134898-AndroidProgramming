@@ -20,13 +20,11 @@
             android:textSize="18dp"
             android:textColor="@color/purple_500"/>
         <EditText
-            android:id="@+id/edtSo1"
+
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Mời nhập một con số ở đây"/>
     </LinearLayout>
-
-
     <LinearLayout
         android:layout_width="match_parent"
         android:padding="5dp"
@@ -40,7 +38,7 @@
             android:textSize="18dp"
             android:textColor="@color/purple_500"/>
         <EditText
-            android:id="@+id/edtSo2"
+
             android:paddingLeft="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -54,30 +52,25 @@
         android:gravity="center_horizontal"
         android:layout_height="50dp">
         <Button
-            android:id="@+id/btnCong"
+
             android:padding="2dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="+"
-            android:onClick="XuLyCong"/>
+            android:text="+"/>
         <Button
-            android:id="@+id/btnTru"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="-"
-            android:onClick="XuLyTru"/>
+            android:text="-"/>
         <Button
-            android:id="@+id/btnNhan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="*"
-            android:onClick="XuLyNhan"/>
+            android:text="*"/>
         <Button
-            android:id="@+id/btnChia"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="/"
-            android:onClick="XuLyChia"/>
+            android:text="/"/>
     </LinearLayout>
 
     <LinearLayout
@@ -93,7 +86,7 @@
             android:textSize="18dp"
             android:textColor="@color/purple_500"/>
         <EditText
-            android:id="@+id/edtKetQua"
+
             android:paddingLeft="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
