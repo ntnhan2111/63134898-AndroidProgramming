@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019528753426",
+    "project_id": "vieccanlam-172f1",
+    "storage_bucket": "vieccanlam-172f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019528753426:android:6f2e9509c525872c2543cb",
+        "android_client_info": {
+          "package_name": "tiil.edu.vieccanlam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLkXNnrg1gPWs2dPmHRh3qehuXXQLJzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
